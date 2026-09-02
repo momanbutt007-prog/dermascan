@@ -1,7 +1,4 @@
 ultralytics
-albumentations
 opencv-python-headless
-scikit-learn
-numpy
-streamlit
 pillow
+streamlit
